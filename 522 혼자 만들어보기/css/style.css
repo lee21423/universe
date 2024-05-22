@@ -1,0 +1,169 @@
+.main_content {
+    padding: 120px 0;
+}
+
+.main_content .tit {
+    width: 1170px;
+    margin: 0 auto 40px auto;
+}
+
+.main_content .tit h2 {
+    font-family: 'GmarketSans';
+    font-size: 32px;
+    font-weight: 800;
+    margin: 0 0 16px 0;
+}
+
+.main_content .tit p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.main_content .inner {
+    display: flex;
+    gap: 30px;
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.main_content .inner>* {
+    flex: 1;
+}
+
+.main_uni {
+    padding: 120px 0;
+    background: #f9f9f9;
+}
+
+.main_uni .tit {
+    width: 1170px;
+    margin: 0 auto 40px auto;
+}
+
+.main_uni .tit h2 {
+    font-size: 32px;
+    font-weight: 800;
+    margin: 0 0 16px 0;
+}
+
+.main_uni .tit p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.main_uni .inner {
+    display: flex;
+    gap: 30px;
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.main_uni .inner>* {
+    flex: 1;
+}
+
+.main_ver {
+    padding: 120px 0;
+}
+
+.main_ver .inner {
+    display: flex;
+    gap: 30px;
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.main_ver .inner>* {
+    flex: 1;
+}
+
+.main_ver .tit {
+    padding: 8px 0 0;
+}
+
+.main_ver .tit h2 {
+    font-size: 32px;
+    font-weight: 800;
+    font-family: 'GmarketSans';
+    margin: 0 0 16px 0;
+}
+
+.main_ver .tit p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.main_ver .right img {
+    border-radius: 16px;
+}
+
+.main_se {
+    padding: 120px 0;
+    background: #f9f9f9;
+}
+
+.main_se .inner {
+    width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    gap: 30px;
+}
+
+.main_se .inner>* {
+    flex: 1;
+}
+
+.main_se .desc {
+    order: -1;
+}
+
+.main_se .tit {
+    padding: 24px 0 0 0;
+}
+
+.main_se .tit h2 {
+    font-family: 'GmarketSans';
+    font-size: 32px;
+    font-weight: 800;
+    margin: 0 0 16px 0;
+}
+
+.main_se .tit p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.main_se .desc img {
+    border-radius: 16px;
+}
+
+.main_universe {
+    padding: 120px 0;
+}
+
+.main_universe .tit {
+    margin: 0 0 40px 0;
+}
+
+.main_universe .tit h2 {
+    font-family: 'GmarketSans';
+    font-size: 32px;
+    font-weight: 800;
+    margin: 0 0 16px 0;
+    text-align: center;
+}
+
+.main_universe .tit p {
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.main_universe .inner {
+    display: flex;
+    gap: 30px;
+}
+
+.main_universe .inner>* {
+    flex: 1;
+}
